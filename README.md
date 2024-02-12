@@ -1,18 +1,27 @@
-# Astro Starter Kit: Basics
+# Netlify Astro Starter
 
-```sh
-npm create astro@latest -- --template basics
-```
+This is [Astro's](https://astro.build) default starter site, ready to deploy to [Netlify](https://www.netlify.com/).
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-astro-starter)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Working Locally
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+To work locally on a machine with Node.js v18 installed, clone the repository:
 
-## 🚀 Project Structure
+    git clone git@github.com:netlify/netlify-astro-starter.git
+
+Change into the project directory and install the dependencies:
+
+    cd netlify-astro-starter
+    yarn install
+
+Start the development server:
+
+    yarn dev
+
+The development site will be available at `http://localhost:4321`. Happy coding! 🚀
+
+## About the Project
 
 Inside of your Astro project, you'll see the following folders and files:
 
@@ -36,7 +45,7 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
-## 🧞 Commands
+### Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -49,6 +58,8 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## Resources
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+For help with Astro, check out [the documentation](https://docs.astro.build) or jump into [Astro's Discord server](https://astro.build/chat).
+
+For help with Netlify, visit [the Netlify documentation](https://docs.netlify.com) or [Netlify's community forums](https://answers.netlify.com/).
