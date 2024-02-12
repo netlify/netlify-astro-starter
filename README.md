@@ -1,6 +1,6 @@
 # Netlify Astro Starter
 
-This is [Astro's](https://astro.build) default starter site, ready to deploy to [Netlify](https://www.netlify.com/).
+_This is [Astro's](https://astro.build) default starter site, ready to deploy to [Netlify](https://www.netlify.com/)._
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-astro-starter)
 
@@ -60,6 +60,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## Resources
 
-For help with Astro, check out [the documentation](https://docs.astro.build) or jump into [Astro's Discord server](https://astro.build/chat).
-
-For help with Netlify, visit [the Netlify documentation](https://docs.netlify.com) or [Netlify's community forums](https://answers.netlify.com/).
+For help with Astro, check out [the documentation](https://docs.astro.build) or jump into [Astro's Discord server](https://astro.build/chat). For help with Netlify, visit [the Netlify documentation](https://docs.netlify.com) or [Netlify's community forums](https://answers.netlify.com/).
